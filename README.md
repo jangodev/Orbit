@@ -1,5 +1,6 @@
 # Orbit
-Anime, games, youtube, all 100% unblocked for school. Bypasses school security like GoGuardian, Securely, iboss, etc.
+Anime, games, youtube, all 100% unblocked for school. Bypasses school security like GoGuardian, Securely, iboss, etc. Includes a chatbox in case if all messaging software in your school is blocked
+
 Used as a bookmarklet. 
 
 
