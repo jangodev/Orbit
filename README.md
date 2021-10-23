@@ -1,9 +1,9 @@
 # Orbit
-Anime, games, youtube, all 100% unblocked for school.
+Anime, games, youtube, all 100% unblocked for school. Bypasses school security like GoGuardian, Securely, iboss, etc.
 Used as a bookmarklet. 
 
 
-# Join the discord for more info
+# Join the discord for more info:
 https://discord.gg/PXp4E5cRNA
 
 # How to use:
