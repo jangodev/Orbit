@@ -10,7 +10,7 @@ https://discord.gg/PXp4E5cRNA
 
 check bookmarklet.js and copy and paste the code into a bookmark URL. Make sure you are on google classroom while pressing the bookmark, because Orbit will not run if it is not on google classroom. 
 
-# I am not responsible if you are caught using Orbit in school. This is a waring.
+# I am not responsible if you are caught using Orbit in school. This is a warning.
 
 
 
